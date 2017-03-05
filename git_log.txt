@@ -1,0 +1,37 @@
+commit 1db26907709b55b68269e8208d5bff27051f7bcc
+Author: Kit Ma <kitm@qti.qualcomm.com>
+Date:   Sat Mar 4 18:30:47 2017 -0800
+
+    Revert "Change test1.txt to version3 again.."
+    
+    This reverts commit 461c6141cb3d09f5b358203468fff02eb2d74877.
+
+commit 461c6141cb3d09f5b358203468fff02eb2d74877
+Author: Kit Ma <kitm@qti.qualcomm.com>
+Date:   Sat Mar 4 18:26:03 2017 -0800
+
+    Change test1.txt to version3 again..
+
+commit ceca30b54860fe47df6a23e2f9571dd0392f8a9c
+Author: Kit Ma <kitm@qti.qualcomm.com>
+Date:   Sat Mar 4 18:24:36 2017 -0800
+
+    restore test1.txt to version2
+
+commit 8c7aeba0869c304383db8cd48d3079e6ec4f8d61
+Author: Kit Ma <kitm@qti.qualcomm.com>
+Date:   Sat Mar 4 18:19:51 2017 -0800
+
+    change test1.txt to version 3
+
+commit 035714ebe283d3c8e86d4163820c6f499c23c228
+Author: Kit Ma <kitm@qti.qualcomm.com>
+Date:   Sat Mar 4 18:13:23 2017 -0800
+
+    modify test1.txt
+
+commit 691626deb5d4beafcef419608a5afd356ee9421d
+Author: Kit Ma <kitm@qti.qualcomm.com>
+Date:   Sat Mar 4 18:10:51 2017 -0800
+
+    add first two files test1.txt, test2.txt
